@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    background-color: BLACK;
+}
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+.find-perfect-place {
+
+    margin-bottom: 80px;
+    background-color: #ffffff;
+    border-radius: 12px;
+}
+
+.find-perfect-h1 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.find-perfect-p {
+    color: #555;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.find-perfect-img {
+    height: 400px;
+    width: 100%;
+}
+
+.our-most-heading {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.view-button {
+    background-color: #ff7665;
+    border-width: 0px;
+    color: #fff;
+    float: right;
+}
+
+.executive-room-img {
+    height: 200px;
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.room-card {
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.our-most-room-h1 {
+    color: #222;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    padding-top: 27px;
+}
+
+.our-most-room-p {
+    color: #222;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Rating-card {
+    justify-content: space-between;
+}
+
+.facilities-p {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.facility-sub-card {
+    background-color: #fff;
+    height: 193px;
+    width: 193px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.history-section {
+    background-color: #fff;
+    border-radius: 16px;
+}
+
+.contact-btn {
+    color: #fff;
+    background-color: #ff7665;
+    border-width: 0px;
+}
+
+.img-history {
+    width: 667px;
+    height: 520px;
+    border-radius: 16px;
+}
+
+.history-heading {
+    color: #000;
+    font-family: Open Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.history-p {
+    color: #555;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.question-card {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.question-heading {
+    color: #000;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.span-el {
+    color: red;
+}
+
+.map-section {
+    width: 100%;
+    height: 670px;
+    background-size: cover;
+    background-image: url("https://s3-alpha-sig.figma.com/img/ea38/e476/01b01c2d6d8eb85c6087fccad0ae580b?Expires=1697414400&Signature=pIxX-t45UNVGbjtnvBeVHC7SScZJUFfZ1klm9zPCUeGCq4e5OJ5RawiwwIdXBYk6973HTGCTTpFkfCUGPCGf~WHmX-SFxHYX8pZ1IsnH~Z8b8B2oSUwj9a3K8qKiRKak0X8SYejzAhD8r4jTVKNehA7YwEeiV4uLDVfZHdyiCGv5gSGkVeHwkKMTPE~Yz2fsf8fhvrCIY~YYLjA4Y~ZdzQvzOQc6xUhU07y7ghKwTfeqmiFnwlzV07cxhwGpoQh4-WvvxJp1lg4tDibDq4Hubs7Xn8kJpsijDwLveyyCTrjFZC~qX~EJEaxwYtnoUJ-f1DGR~c4WkD-Qj7-uAl53Lw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+
+.marked-area {
+    padding-left: 830px;
+    padding-top: 180px;
+    padding-right: 250px;
+    padding-bottom: 300px;
+    align-content: center;
+}
+
+.marked-spot {
+    padding: 90px;
+    align-content: center;
+}
